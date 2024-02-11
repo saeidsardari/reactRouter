@@ -1,0 +1,28 @@
+{
+    "articles" : [
+        {
+            "id":"1",
+            "title": "welcom to the website",
+            "author":"saeid",
+            "body":"lorem fgh fghj rtyui kl inm"
+        },
+        {
+            "id":"2",
+            "title": "welcom to the website",
+            "author":"saeid",
+            "body":"lorem fgh fghj rtyui kl inm"
+        },
+        {
+            "id":"3",
+            "title": "welcom to the website",
+            "author":"saeid",
+            "body":"lorem fgh fghj rtyui kl inm"
+        },
+        {
+            "id":"4",
+            "title": "welcom to the website",
+            "author":"saeid",
+            "body":"lorem fgh fghj rtyui kl inm"
+        }
+    ]
+}
